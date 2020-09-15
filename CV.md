@@ -2,7 +2,8 @@
 
 ***Grodno***
 
-
+**Skype:** natallia_muratava
+**Discord:** Natallia Muratova#5599
 
 *I want to work as a Front-End developer. I have 2 years of experience in QA, and this experience gave me an understanding of how the final product should work, as well as a desire to develop and improve the product on my own through my code.*
 *I'm always glad to learn something new, I am highly motivated, colleagues mark me as a good team player.*
