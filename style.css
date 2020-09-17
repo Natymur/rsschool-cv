@@ -1,0 +1,79 @@
+body {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 1px solid rgba(0, 0, 0, .2);
+  padding: 50px;
+}
+
+.image {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.employee-descr {
+  width: 79%;
+  display: inline-block;
+  text-align: center;
+}
+
+.employee-descr ul {
+  list-style: none;
+}
+
+.info li {
+  display: inline-block;
+  margin: 0, 15px;
+  font-size: 21px;
+}
+
+h1 {
+  margin: 0 0 20px 0;
+  display: inline-block;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 68px;
+  letter-spacing: 4px;
+}
+
+h2 {
+  border-bottom: 6px solid hsl(192, 86%, 65%);
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 32px;
+}
+
+.about-me {
+  margin: 70px 0;
+  font-size: 24px;
+  color: rgba(0, 0, 0, .7);
+}
+
+i {
+  padding: 0 10px 5px 5px;
+  font-size: 21px;
+  color: hsl(192, 86%, 65%);
+  font-family: 'Balsamiq Sans', cursive;
+  ;
+}
+
+section p {margin: 10px 0;}
+
+.experience p {margin: 5px 0;}
+
+.date-of-work {
+  font-size: 18px;
+  color: rgba(0, 0, 0, .7);
+}
+
+li {margin: 10px 0;}
+
+a {text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+ul {list-style-type: square;}
+
+.code-examples ul {list-style: none;}
